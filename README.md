@@ -9,7 +9,7 @@ My main focus is Front-End and Python.
 
 * 🌍  I'm based in Maranhão, Brazil
 * ✉️  You can contact me at [niinofonseca123@gmail.com].
-* 🧠  I currently only study and am deepening my knowledge in HTML, CSS and Python.
+* 🧠  I currently only study and am deepening my knowledge in HTML5, CSS3 and Python.
 * 🤝  I'm open to collaborating on high impact projects on people's lives...
 * ⚡  I love to train and my favorite hobby is the gym
 
