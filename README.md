@@ -5,7 +5,7 @@ Developer Front-End Begginer
 -----------------------------
 
 I'm a Front-End Developer Begginer. I'm 18 years old and I discovered my passion for technology.
-My main focus is Front-End and Python.
+My main focus is Front-End.
 
 * 🌍  I'm based in Maranhão, Brazil
 * ✉️  You can contact me at [niinofonseca123@gmail.com].
@@ -20,6 +20,6 @@ My main focus is Front-End and Python.
 <div>
   <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Camila-JavaScript" height="30" width="40" src="<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
->
+   <img align="center" alt="Camila-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ 
 </div>
