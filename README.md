@@ -8,7 +8,7 @@ I'm a Front-End Developer Begginer. I'm 18 years old and I discovered my passion
 My main focus is Front-End.
 
 * 🌍  I'm based in Maranhão, Brazil
-* ✉️  You can contact me at [niinofonseca123@gmail.com].
+* ✉️  You can contact me at [camilaesterfonseca@gmail.com].
 * 🧠  I currently only study and am deepening my knowledge in HTML5, CSS3 and JavaScript.
 * 🤝  I'm open to collaborating on high impact projects on people's lives...
 * ⚡  I love to train and my favorite hobby is the gym
