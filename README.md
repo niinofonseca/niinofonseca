@@ -1,7 +1,7 @@
 Hi 👋 My name is Camila
 ==========================
 
-Developer Front-End Begginer
+Developer Back-End Begginer
 -----------------------------
 
 I'm a Back-End Developer Begginer. I'm 18 years old and I discovered my passion for technology.
