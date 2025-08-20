@@ -1,19 +1,17 @@
 Hi 👋 My name is Camila
 ==========================
 
-Developer Back-End Begginer
------------------------------
 
-I'm a Back-End Developer Begginer. I'm 20 years old and I discovered my passion for technology.
-My main focus is Backend.
+## Back-End Developer
 
-* 🌍  I'm based in Maranhão, Brazil
-* ✉️  You can contact me at [camilaesterfonseca@gmail.com].
-* 🧠  I currently only study and am deepening my knowledge in HTML5, CSS3 and JavaScript.
-* 🤝  I'm open to collaborating on high impact projects on people's lives...
-* ⚡  I love to train and my favorite hobby is the gym
+I'm a **Back-End Developer Beginner**, 20 years old, and passionate about technology.  
+My main focus is **Back-End development**, but I also study front-end fundamentals to strengthen my skills.
 
-
+* 🌍 **Location:** Maranhão, Brazil  
+* ✉️ **Contact:** [camilaesterfonseca@gmail.com](mailto:camilaesterfonseca@gmail.com)  
+* 🧠 **Currently learning:** Java, Python, SQL, HTML5, CSS3, and JavaScript  
+* 🤝 **Goal:** Open to collaborating on projects that have a positive impact on people's lives  
+* ⚡ **Hobbies:** Going to the gym and exploring new technologies  
 
 ### Skills
 
