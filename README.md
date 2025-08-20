@@ -9,7 +9,7 @@ My main focus is **Back-End development**, but I also study front-end fundamenta
 
 * 🌍 **Location:** Maranhão, Brazil  
 * ✉️ **Contact:** [camilaesterfonseca@gmail.com](mailto:camilaesterfonseca@gmail.com)  
-* 🧠 **Currently learning:** Java, Python, SQL, HTML5, CSS3, and JavaScript  
+* 🧠 **Currently learning:** Java, Python (Back-End & scripting), SQL (Databases)
 * 🤝 **Goal:** Open to collaborating on projects that have a positive impact on people's lives  
 * ⚡ **Hobbies:** Going to the gym and exploring new technologies  
 
