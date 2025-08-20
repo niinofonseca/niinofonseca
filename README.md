@@ -5,7 +5,7 @@ Developer Back-End Begginer
 -----------------------------
 
 I'm a Back-End Developer Begginer. I'm 20 years old and I discovered my passion for technology.
-My main focus is Front-End.
+My main focus is Backend.
 
 * 🌍  I'm based in Maranhão, Brazil
 * ✉️  You can contact me at [camilaesterfonseca@gmail.com].
